@@ -1,0 +1,13 @@
+skills;
+
+1. HTML5
+2. GIT
+3. Core Java
+4. Python
+
+Address:
+11-18-127,
+block-E,
+road.no-2,
+Kashibugga co-operative society colony,
+warangal-506002

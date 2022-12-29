@@ -1,0 +1,1 @@
+Please Enter your details like name, fathername, motherename, Education Qualification Skills and address.

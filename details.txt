@@ -1,0 +1,13 @@
+Personal Details:
+
+firstname : Keshava
+Lastname  : Vadapalli
+Fathername: veerabhadra Rao
+mothername: Sharadha
+Sibling   : SambaShiva Rao & Srikrishna
+
+Education Details:
+
+SSC : Nagarjuna High School(9.0 GPA)
+Diploma : VMR polytechnic College (74.06%)
+B.Tech  : jayamukhi Institute Of Technological Sciences(7.11 CGPA)
